@@ -6,3 +6,5 @@
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" alt="Sass" width="40" height="40"/> </a>
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/1200px-Javascript-shield.svg.png" alt="js" width="30" height="40"/> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" alt="swagger" width="35" height="35"/>
+   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="node.js" width="35" height="35"/>
