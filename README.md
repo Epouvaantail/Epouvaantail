@@ -6,5 +6,4 @@
 <h1 align="left">Stats:</h1>  
 
 [![Epouvaantail's GitHub stats](https://github-readme-stats.vercel.app/api?username=Epouvaantail&theme=radical)](https://github.com/Epouvaantail)
-[![Epouvaantail's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Epouvaantail&theme=radical)](https://github.com/Epouvaantail)
 [![Epouvaantail's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Epouvaantail&theme=radical)](https://github.com/Epouvaantail)
