@@ -10,9 +10,9 @@
 
 <h2 align="left">Back:</h2>
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-<h2 align="left">Base de Donnée:</h2>
+<h2 align="left">Database:</h2>
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -23,4 +23,3 @@
 <h1 align="left">Stats:</h1>  
 
 [![Epouvaantail's GitHub stats](https://github-readme-stats.vercel.app/api?username=Epouvaantail&show_icons=true&theme=dark)](https://github.com/Epouvaantail)
-
