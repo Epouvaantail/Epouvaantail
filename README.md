@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Coutouzis%20Kilian&fontSize=30&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20&descAlignY=51&descAlign=62" width="100%" align="center"></img>
 </a>
 
-<p>Diplômé en développement web je suis basé dans le sud de la France et mobile sur tout le territoire national. À la recherche d’un contrat d’alternance Concepteur développeur d’applications .Net (RNCP 6). Ma stack actuel est React/Redux en Front, NodeJS/ExpressJS en Back et MongoDB en BDD.</p>
+<p>Diplômé en développement web je suis basé dans le sud de la France et mobile sur tout le territoire national. À la recherche d’un contrat d’alternance Concepteur développeur d’applications .Net (RNCP 6). Ma stack actuel est React/Redux en Front, NodeJS/ExpressJS en Back et MongoDB en Base de données.</p>
 
 <h1 align="left">Languages and Tools:</h1>          
 
