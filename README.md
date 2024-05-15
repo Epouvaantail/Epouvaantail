@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Coutouzis%20Kilian&fontSize=30&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20&descAlignY=51&descAlign=62" width="100%" align="center"></img>
 </a>
 
-<p>Diplômé en développement web je suis basé dans le sud de la France et mobile sur tout le territoire national. En formation Développeur Concépteur d'application fullstack en alternance</p>
+<p>En alternance Concépteur Développeur  d'Application Fullstack</p>
 
 <h1 align="left">Languages and Tools:</h1>          
 
